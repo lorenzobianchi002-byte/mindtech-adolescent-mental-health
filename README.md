@@ -10,14 +10,14 @@ Repository ufficiale del progetto di analisi dati focalizzato sul benessere digi
 
 ---
 
-### 📚 Approfondisci il Progetto
+### Approfondisci il Progetto
 Per consultare il report completo, l'indice dettagliato, le tabelle delle metriche e l'analisi statistica approfondita, puoi accedere al documento ufficiale:
 
-👉 [**Leggi il Case Study Completo (Google Docs)**](https://docs.google.com/document/d/1p99Gd8slAdC9DzvfW3gVMDjSFGi7zm21WkjHk_WND_s/edit?usp=sharing)
+ [**Leggi il Case Study Completo (Google Docs)**](https://docs.google.com/document/d/1p99Gd8slAdC9DzvfW3gVMDjSFGi7zm21WkjHk_WND_s/edit?usp=sharing)
 
 ---
 
-### 🛠️ Tecnologie e Strumenti
+###  Tecnologie e Strumenti
 * **Linguaggio**: Python (Jupyter Notebook)
 * **Librerie**: Pandas, NumPy
 * **Controllo versione**: Git & GitHub
