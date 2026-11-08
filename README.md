@@ -21,3 +21,5 @@ Per consultare il report completo, l'indice dettagliato, le tabelle delle metric
 * **Linguaggio**: Python (Jupyter Notebook)
 * **Librerie**: Pandas, NumPy
 * **Controllo versione**: Git & GitHub
+
+- **Presentazione del Progetto**: Puoi visionare la [Presentazione esecutiva ultimata su Google Slides](https://docs.google.com/presentation/d/1nWJZMVd5Hhq6XvWWg_HEFtMyDAfIlv-VLBgLRzEpu5A/edit?usp=sharing).
