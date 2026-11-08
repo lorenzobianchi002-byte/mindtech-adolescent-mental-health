@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 # Mindtech: Adolescent Mental Health & Social Media Analysis
 
 Repository ufficiale del progetto di analisi dati focalizzato sul benessere digitale e psicologico degli adolescenti.
@@ -26,8 +24,7 @@ Per consultare il report completo, l'indice dettagliato, le tabelle delle metric
 * **Controllo versione**: Git & GitHub
 
 - **Presentazione del Progetto**: Puoi visionare la [Presentazione esecutiva ultimata su Google Slides](https://docs.google.com/presentation/d/1nWJZMVd5Hhq6XvWWg_HEFtMyDAfIlv-VLBgLRzEpu5A/edit?usp=sharing).
-=======
->>>>>>> temp-fix
+
 
 
 
